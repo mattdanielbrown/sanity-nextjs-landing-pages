@@ -21,7 +21,7 @@
     "@sanity/studio-hints": "^2.1.0",
     "bcp47": "^1.1.2",
     "prop-types": "^15.7.2",
-    "react": "^17.0.1",
+    "react": "^19.1.1",
     "react-dom": "^17.0.1",
     "react-icons": "^3.11.0",
     "sanity-plugin-dashboard-widget-document-list": "^0.0.11",
